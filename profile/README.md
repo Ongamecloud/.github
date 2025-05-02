@@ -1,49 +1,46 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+# 🌐 OnGameCloud
 
+**OnGameCloud** est une plateforme d’hébergement de serveurs de jeu pensée pour les joueurs et les communautés.  
+Lancez, gérez et faites évoluer votre serveur en quelques clics — sans compromis sur les performances ni sur le support.
 
+---
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+## 🚀 Fonctionnalités principales
 
+- 🎮 **Hébergement multi-jeux** (Minecraft, ARK, Rust, FiveM, etc.)
+- ⚡ **Performances haut de gamme** (Ryzen OC, DDR5, NVMe)
+- 🧩 **Offres flexibles** adaptées à tous les besoins
+- 📦 **Déploiement instantané** de serveurs
+- 🛠️ **Panneau de gestion intuitif**
+- 🧑‍💻 **Support Discord & tickets intégrés**
 
+---
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="*">
-    <img src="https://cdn.discordapp.com/attachments/1220659094134984714/1224940118549467156/Frame_1.png?ex=661f5162&is=660cdc62&hm=9c2ba7a36293123262e27bedf7cc2ba551e8d50f16f912bf705ccc4c417c21e0&" alt="Logo" height="80">
-  </a>
+## 📦 Nos offres
 
-<h3 align="center">Ongamecloud</h3>
+| Offre      | Processeur               | RAM    | Prix dès | Pour qui ?                      |
+|------------|--------------------------|--------|----------|----------------------------------|
+| **BOX ECO**  | Intel Xeon E5 (DDR4)      | Jusqu’à 32 Go | 2,99 €/mois | Débutants, petits serveurs       |
+| **BOX CORE** | Ryzen 9 OC (DDR5 + NVMe) | Jusqu’à 64 Go | 6,99 €/mois | Serveurs exigeants & moddés     |
 
-  <p align="center">
-    The next-gen multiplayer plateform
-    <br />
-    <br />
-    <a href="https://ongame.cloud">Website</a>
-    ·
-    <a href="*">Our Discord</a>
-    ·
-    <a href="*"></a>
-  </p>
-</div>
+➡️ Voir tous les détails sur notre site : [www.ongamecloud.com](https://www.ongamecloud.com)
 
+---
 
+## 🛟 Support
 
+- 📩 Ouvrir un ticket sur notre Discord : [discord.gg/ongamecloud](https://discord.gg/ZdQS93YPPb)
+- 🔐 Connecte ton compte Discord pour créer un ticket 
 
+---
 
+## 📈 En savoir plus
 
+OnGameCloud évolue constamment. De nouvelles fonctionnalités arrivent régulièrement : automatisation, API publique, et plus encore.
+
+⭐ Pense à ajouter ce projet en favori si tu aimes ce que nous faisons !  
+Merci d’être là et bon jeu à toi 🚀
+
+---
+
+**© OnGameCloud – Tous droits réservés**
